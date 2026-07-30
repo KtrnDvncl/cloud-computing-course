@@ -17,3 +17,22 @@ This repository serves as my organized workspace for all course requirements, in
 - **Course/Section:** Bachelor of Science in Information Technology - Block H
 - **Instructor:** Jenkielyn Cortez Torres
 - **School Year:** 2026–2027
+
+## 📂 Repository Structure
+
+```text
+cloud-computing-course/
+├── activities/
+├── projects/
+├── notes/
+├── reflections/
+└── README.md
+```
+
+## 📖 Key Concepts Covered
+
+- Cloud Computing Basics
+- Service Models (IaaS, PaaS, SaaS)
+- Deployment Models (Public, Private, Hybrid, Community)
+- Version Control with Git & GitHub
+- Cloud Infrastructure Management
