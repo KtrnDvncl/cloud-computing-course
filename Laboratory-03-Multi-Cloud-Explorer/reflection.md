@@ -1,1 +1,9 @@
+# Checkpoint 8: Mission Reflection
 
+Completing the Multi-Cloud Explorer mission gave me a better understanding of the leading cloud providers. Among the three, AWS impressed me the most because of its large number of services and strong presence in the cloud industry. Its mature ecosystem, wide range of tools, and large community support make it a reliable choice for many different projects. However, I also learned that AWS, Azure, and GCP have many similarities. All three provide core services such as virtual machines for computing, object storage for data, and managed databases. They also support high availability, scalability, and pay-as-you-go pricing.
+
+I learned that business requirements are very important when choosing a cloud platform. A company should not simply choose the most popular provider. Instead, it should consider its budget, existing systems, security needs, and project goals. For example, a university that already uses Microsoft products may benefit more from Azure, while a startup may choose AWS because of its wide range of services and scalability.
+
+Acting as a Cloud Solutions Consultant taught me to focus on finding the best platform for a specific client rather than choosing the best provider in general. I learned how to analyze different business situations and match their needs with appropriate cloud services.
+
+Finally, my GitHub Cloud Computing Portfolio has improved significantly. It is no longer just a collection of basic notes. It now includes cloud platform research, comparison tables, and practical terminal evidence. Documenting the Linux system investigation using KillerCoda also helped demonstrate my practical skills. Overall, this mission helped me become more confident in understanding cloud technologies and thinking about how they can be used to solve real business problems.
