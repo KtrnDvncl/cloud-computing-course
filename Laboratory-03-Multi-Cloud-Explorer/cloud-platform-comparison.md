@@ -23,3 +23,17 @@ Google Cloud Platform (GCP) is considered the strongest in Artificial Intelligen
 
 **4. Which cloud platform would you personally choose and why?**
 I would personally choose AWS because of its massive community support and extensive documentation. As a student, having access to the most tutorials and a widely recognized certification path makes it the most practical platform to master first.
+
+---
+
+## Checkpoint 5: Equivalent Services Reference Table
+
+Using the knowledge of the three major providers, here is a reference table matching equivalent services:
+
+| Service Category | AWS | Microsoft Azure | Google Cloud Platform (GCP) |
+| :--- | :--- | :--- | :--- |
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| **Identity Management** | AWS IAM | Microsoft Entra ID (formerly Azure AD) | Cloud IAM |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
