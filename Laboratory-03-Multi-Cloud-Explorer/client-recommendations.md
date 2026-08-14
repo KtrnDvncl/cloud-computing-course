@@ -19,3 +19,18 @@
 *   **Recommended Platform:** Amazon Web Services (AWS)
 *   **Justification:** AWS was built to power Amazon.com, the world's largest e-commerce site, so it is perfectly suited for this scenario. Its massive global infrastructure ensures that customers around the world experience low latency. With features like Amazon CloudFront and Multi-Region deployments, the company can guarantee high availability and automatic scaling during peak shopping seasons like Black Friday.
 *   **Services to Use:** Amazon CloudFront (CDN), Amazon Aurora (Global Database), and AWS Auto Scaling.
+
+---
+
+## Checkpoint 6: Multi-Cloud Decision Matrix
+
+This matrix summarizes the best cloud provider for different business needs based on our evaluation.
+
+| Business Requirement | Recommended Platform | Justification |
+| :--- | :--- | :--- |
+| **Startup Company** | AWS | Offers rapid scaling, extensive documentation, and startup credits. |
+| **Enterprise Organization** | Azure | Provides the best integration for large-scale existing corporate infrastructures. |
+| **Microsoft Environment** | Azure | Native compatibility with Windows Server, Active Directory, and M365. |
+| **AI / Machine Learning** | GCP | Superior specialized hardware (TPUs) and advanced data analytics tools. |
+| **Kubernetes Deployment** | GCP | Most mature managed Kubernetes environment (GKE) from the creators of K8s. |
+| **Global Web Application** | AWS | Largest global network of edge locations for low-latency content delivery. |
