@@ -1,4 +1,4 @@
-# Checkpoint 8: Mission Reflection
+# Mission Reflection
 
 Completing the Multi-Cloud Explorer mission gave me a better understanding of the leading cloud providers. Among the three, AWS impressed me the most because of its large number of services and strong presence in the cloud industry. Its mature ecosystem, wide range of tools, and large community support make it a reliable choice for many different projects. However, I also learned that AWS, Azure, and GCP have many similarities. All three provide core services such as virtual machines for computing, object storage for data, and managed databases. They also support high availability, scalability, and pay-as-you-go pricing.
 
